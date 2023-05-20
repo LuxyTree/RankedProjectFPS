@@ -1133,3 +1133,583 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.20-02.41.40:596][181]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.20-02.41.40:596][181]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_106838111E1A2B8401_1568446119
 [2023.05.20-02.41.40:596][181]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_106838111E1A2B8401_1176883119
+[2023.05.20-02.42.38:922][789]LogDerivedDataCache: C:/Users/aweso/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.016 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 304 files in 552 folders with total size 1 MiB.
+[2023.05.20-02.45.46:298][453]LogSlate: Took 0.001155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.20-02.46.11:854][952]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.20-02.46.11:861][952]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.20-02.46.11:870][953]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.20-02.53.24:309][158]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.05.20-02.53.24:309][158]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.20-03.36.41:985][621]LogViewport: Scene viewport resized to 2038x814, mode Windowed.
+[2023.05.20-03.36.51:292][706]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.20-03.36.51:332][706]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.20-03.36.51:337][707]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.20-03.36.52:776][880]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2023.05.20-03.36.52:776][880]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.20-03.37.19:031][353]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.05.20-03.37.19:038][353]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.05.20-03.37.19:041][353]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.05.20-03.37.19:063][355]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.05.20-03.37.24:916][ 36]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2023.05.20-03.37.24:941][ 36]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.05.20-03.37.27:008][281]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2023.05.20-03.37.27:010][281]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-03.37.27:010][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-03.37.27:016][281]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-03.37.27:016][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-03.37.27:022][281]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.05.20-03.37.28:366][281]LogSlate: Took 0.001287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.20-03.37.28:375][281]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.05.20-03.37.28:381][281]LogSlate: Took 0.004729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.20-03.38.51:502][702]LogEditorTransaction: Undo Add Widget
+[2023.05.20-03.38.51:564][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-03.39.27:096][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.05.20-03.39.27:097][877]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.050
+[2023.05.20-03.39.27:099][877]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu] ([2] browsable assets)...
+[2023.05.20-03.39.27:104][877]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu.MainMenu]
+[2023.05.20-03.39.27:104][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2023.05.20-03.39.27:120][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_Auto1
+[2023.05.20-03.39.27:120][877]LogSavePackage: Moving '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Saved/MainMenu_Auto1051468584FCEE4D7C7462FAB6DC38771.tmp' to '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Saved/Autosaves/Game/UI/MainMenu_Auto1.uasset'
+[2023.05.20-03.39.27:120][877]LogFileHelpers: Auto-saving content packages took 0.022
+[2023.05.20-03.42.38:924][304]LogDerivedDataCache: C:/Users/aweso/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.017 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 304 files in 552 folders with total size 1 MiB.
+[2023.05.20-03.49.46:532][583]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.05.20-03.49.46:532][583]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.05.20-03.53.05:093][347]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.05.20-03.53.12:886][599]LogSlate: Took 0.008216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.05.20-03.54.40:513][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.20-03.54.40:514][214]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.014
+[2023.05.20-03.54.40:514][214]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu] ([2] browsable assets)...
+[2023.05.20-03.54.40:518][214]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu.MainMenu]
+[2023.05.20-03.54.40:518][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2023.05.20-03.54.40:521][214]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_Auto2
+[2023.05.20-03.54.40:521][214]LogSavePackage: Moving '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Saved/MainMenu_Auto2DCD1F7A5427A351E3EE56394D7F9A247.tmp' to '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Saved/Autosaves/Game/UI/MainMenu_Auto2.uasset'
+[2023.05.20-03.54.40:521][214]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.05.20-03.59.46:843][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-03.59.46:862][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/UI/MainMenu.uasset" SILENT=true
+[2023.05.20-03.59.46:865][550]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2023.05.20-03.59.46:865][550]LogSavePackage: Moving '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Saved/MainMenu864465C44D9264C503063C8A86760352.tmp' to '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/UI/MainMenu.uasset'
+[2023.05.20-03.59.46:870][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 72 ms)
+[2023.05.20-03.59.46:875][550]AssetCheck: New page: Asset Save: MainMenu
+[2023.05.20-03.59.46:875][550]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2023.05.20-03.59.48:236][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.05.20-03.59.48:706][761]BlueprintLog: New page: Compile MainMenu
+[2023.05.20-03.59.48:724][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.20-03.59.50:394][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.05.20-04.00.09:766][963]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.05.20-04.00.52:050][342]LogSlate: Window 'New Level' being destroyed
+[2023.05.20-04.00.52:055][342]LightingResults: New page: Lighting Build
+[2023.05.20-04.00.52:060][342]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-04.00.52:060][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.00.52:063][342]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.05.20-04.00.52:064][342]MapCheck: New page: Map Check
+[2023.05.20-04.00.52:064][342]LightingResults: New page: Lighting Build
+[2023.05.20-04.00.52:077][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-04.00.52:087][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.20-04.00.52:090][342]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.00.52:090][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-04.00.52:090][342]LogAIModule: Creating AISystem for world Untitled
+[2023.05.20-04.00.52:092][342]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.20-04.00.52:098][342]LoadErrors: New page: New Map
+[2023.05.20-04.00.52:102][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.01.40:639][888]LogSlate: Window 'Save Level As' being destroyed
+[2023.05.20-04.01.40:716][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.05.20-04.01.40:719][888]LogSavePackage: Moving output files for package: /Game/StartMenuMap
+[2023.05.20-04.01.40:719][888]LogSavePackage: Moving '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Saved/StartMenuMap030E08464DCDDFB90141A7A93E1BBB01.tmp' to '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/StartMenuMap.umap'
+[2023.05.20-04.01.40:728][888]LogFileHelpers: Saving map 'StartMenuMap' took 0.083
+[2023.05.20-04.01.40:728][888]Cmd: MAP LOAD FILE="../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/StartMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.20-04.01.40:728][888]LightingResults: New page: Lighting Build
+[2023.05.20-04.01.40:728][888]LoadErrors: New page: Loading map: StartMenuMap.umap
+[2023.05.20-04.01.40:728][888]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-04.01.40:728][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.01.40:728][888]MapCheck: New page: Map Check
+[2023.05.20-04.01.40:728][888]LightingResults: New page: Lighting Build
+[2023.05.20-04.01.40:738][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-04.01.40:740][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.20-04.01.40:741][888]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMenuMap'.
+[2023.05.20-04.01.40:741][888]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.01.40:741][888]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-04.01.40:741][888]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.05.20-04.01.40:746][888]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.20-04.01.40:758][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.20-04.01.40:759][888]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.20-04.01.40:759][888]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.062ms to complete.
+[2023.05.20-04.01.40:759][888]LogFileHelpers: Loading map 'StartMenuMap' took 0.032
+[2023.05.20-04.01.40:763][888]AssetCheck: New page: Asset Save: StartMenuMap
+[2023.05.20-04.01.40:763][888]LogContentValidation: Display: Validating /Script/Engine.World /Game/StartMenuMap.StartMenuMap
+[2023.05.20-04.01.40:765][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.02.14:338][ 30]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.20-04.02.14:358][ 30]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.20-04.02.14:361][ 30]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.20-04.02.14:370][ 31]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.05.20-04.02.19:151][586]LogContentBrowser: Attempting asset rename: NewBlueprint -> MenuGameMode
+[2023.05.20-04.02.19:157][586]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.20-04.03.13:350][815]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/MenuGameMode.MenuGameMode
+[2023.05.20-04.03.13:354][815]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.03.13:354][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-04.03.13:582][815]LogViewport: Scene viewport resized to 1525x1227, mode Windowed.
+[2023.05.20-04.03.39:514][759]BlueprintLog: New page: Compile MenuGameMode
+[2023.05.20-04.03.39:545][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.20-04.03.42:949][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.05.20-04.03.42:950][150]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-04.03.42:980][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.05.20-04.03.42:983][150]LogSavePackage: Moving output files for package: /Game/StartMenuMap
+[2023.05.20-04.03.42:983][150]LogSavePackage: Moving '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Saved/StartMenuMap83C45E154FE7C81E61B6889F11F82CC6.tmp' to '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/StartMenuMap.umap'
+[2023.05.20-04.03.42:986][150]LogFileHelpers: Saving map 'StartMenuMap' took 0.016
+[2023.05.20-04.03.42:986][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGameMode" FILE="../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/UI/MenuGameMode.uasset" SILENT=true
+[2023.05.20-04.03.42:988][150]LogSavePackage: Moving output files for package: /Game/UI/MenuGameMode
+[2023.05.20-04.03.42:988][150]LogSavePackage: Moving '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Saved/MenuGameModeDAD947174520D7EC9ECBA492563B3BF5.tmp' to '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/UI/MenuGameMode.uasset'
+[2023.05.20-04.03.42:992][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 114 ms)
+[2023.05.20-04.03.42:995][150]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.20-04.03.42:995][150]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/MenuGameMode.MenuGameMode
+[2023.05.20-04.03.42:995][150]LogContentValidation: Display: Validating /Script/Engine.World /Game/StartMenuMap.StartMenuMap
+[2023.05.20-04.03.53:988][607]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.20-04.03.54:001][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.03.54:016][609]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.03.54:040][610]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.04.03:052][864]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StartMenuMap.StartMenuMap:PersistentLevel.StartMenuMap
+[2023.05.20-04.04.03:054][864]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.04.03:054][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-04.05.08:972][256]BlueprintLog: New page: Compile StartMenuMap
+[2023.05.20-04.05.08:990][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.05.20-04.05.09:863][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-04.05.09:895][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.05.20-04.05.09:899][347]LogSavePackage: Moving output files for package: /Game/StartMenuMap
+[2023.05.20-04.05.09:899][347]LogSavePackage: Moving '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Saved/StartMenuMapBEE63EE2478122C60EEFE69C52A0F4A7.tmp' to '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/StartMenuMap.umap'
+[2023.05.20-04.05.09:903][347]LogFileHelpers: Saving map 'StartMenuMap' took 0.021
+[2023.05.20-04.05.09:906][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 157 ms)
+[2023.05.20-04.05.09:908][347]AssetCheck: New page: Asset Save: StartMenuMap
+[2023.05.20-04.05.09:908][347]LogContentValidation: Display: Validating /Script/Engine.World /Game/StartMenuMap.StartMenuMap
+[2023.05.20-04.05.13:484][775]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-04.05.13:497][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-04.05.13:502][775]PIE: New page: PIE session: StartMenuMap (May 19, 2023, 8:05:13 PM)
+[2023.05.20-04.05.13:508][775]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.05.20-04.05.13:508][775]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.20-04.05.13:511][775]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMenuMap
+[2023.05.20-04.05.13:512][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001963s)
+[2023.05.20-04.05.13:512][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenuMap.StartMenuMap to /Game/UEDPIE_0_StartMenuMap.StartMenuMap (0.001992s)
+[2023.05.20-04.05.13:513][775]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.05.13:513][775]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-04.05.13:513][775]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.05.20-04.05.13:515][775]LogPlayLevel: PIE: World Init took: (0.002599s)
+[2023.05.20-04.05.13:528][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.20-04.05.13:531][775]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.20-04.05.13:531][775]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-04.05.13:531][775]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-04.05.13:531][775]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-04.05.13:531][775]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-04.05.13:531][775]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-04.05.13:531][775]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-04.05.13:531][775]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-04.05.13:531][775]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-04.05.13:531][775]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-04.05.13:531][775]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-04.05.13:531][775]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-04.05.13:533][775]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-04.05.13:543][775]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2023.05.20-04.05.13:543][775]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-04.05.13:543][775]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-04.05.13:543][775]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-04.05.13:544][775]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.05.20-04.05.13:544][775]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.05.20-04.05.13:545][775]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.05.20-04.05.13:545][775]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.05.20-04.05.13:545][775]LogInit: FAudioDevice initialized with ID 2.
+[2023.05.20-04.05.13:545][775]LogAudio: Display: Audio Device (ID: 2) registered with world 'StartMenuMap'.
+[2023.05.20-04.05.13:545][775]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.05.20-04.05.13:553][775]LogLoad: Game class is 'MenuGameMode_C'
+[2023.05.20-04.05.13:554][775]LogWorld: Bringing World /Game/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.05.20-00.05.13
+[2023.05.20-04.05.13:556][775]LogWorld: Bringing up level for play took: 0.002064
+[2023.05.20-04.05.13:557][775]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.05.20-04.05.13:586][775]PIE: Server logged in
+[2023.05.20-04.05.13:587][775]PIE: Play in editor total start time 0.098 seconds.
+[2023.05.20-04.05.13:615][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.05.13:615][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.05.13:615][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.05.13:616][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.05.13:616][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.05.13:616][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.05.13:616][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.05.13:616][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.05.13:617][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.05.13:617][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.05.13:617][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.05.17:307][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-04.05.17:307][202]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMenuMap
+[2023.05.20-04.05.17:308][202]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-04.05.17:308][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.05.17:311][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-04.05.17:313][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.05.17:326][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-04.05.17:326][202]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.05.20-04.05.17:326][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.20-04.05.17:327][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.20-04.05.17:330][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.20-04.05.17:337][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.05.17:372][207]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.05.20-04.06.41:991][902]LogMetaData: Removing '/Game/FirstPerson/Maps/StartMenuMap.SKEL_StartMenuMap_C' ref from Metadata '/Game/StartMenuMap.PackageMetaData'
+[2023.05.20-04.06.41:991][902]LogMetaData: Removing '/Game/FirstPerson/Maps/StartMenuMap.StartMenuMap_C' ref from Metadata '/Game/StartMenuMap.PackageMetaData'
+[2023.05.20-04.06.41:991][902]LogMetaData: Removing '/Game/FirstPerson/Maps/StartMenuMap.StartMenuMap:PersistentLevel.StartMenuMap.EventGraph.K2Node_Event_0' ref from Metadata '/Game/StartMenuMap.PackageMetaData'
+[2023.05.20-04.06.41:991][902]LogMetaData: Removing '/Game/FirstPerson/Maps/StartMenuMap.StartMenuMap:PersistentLevel.StartMenuMap.EventGraph.K2Node_Event_1' ref from Metadata '/Game/StartMenuMap.PackageMetaData'
+[2023.05.20-04.06.41:991][902]LogMetaData: Removing '/Game/FirstPerson/Maps/StartMenuMap.SKEL_StartMenuMap_C:ReceiveBeginPlay' ref from Metadata '/Game/StartMenuMap.PackageMetaData'
+[2023.05.20-04.06.41:991][902]LogMetaData: Removing '/Game/FirstPerson/Maps/StartMenuMap.SKEL_StartMenuMap_C:ReceiveTick' ref from Metadata '/Game/StartMenuMap.PackageMetaData'
+[2023.05.20-04.06.41:991][902]LogMetaData: Removing '/Game/FirstPerson/Maps/StartMenuMap.StartMenuMap_C:ReceiveBeginPlay' ref from Metadata '/Game/StartMenuMap.PackageMetaData'
+[2023.05.20-04.06.41:997][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-04.06.42:028][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.20-04.06.42:032][902]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/StartMenuMap
+[2023.05.20-04.06.42:032][902]LogSavePackage: Moving '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Saved/StartMenuMap58AF1ED749C0D5F67221DCB3859C3479.tmp' to '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/FirstPerson/Maps/StartMenuMap.umap'
+[2023.05.20-04.06.42:036][902]LogFileHelpers: Saving map 'StartMenuMap' took 0.021
+[2023.05.20-04.06.42:040][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 201 ms)
+[2023.05.20-04.06.42:063][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.20-04.06.42:078][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.05.20-04.06.42:091][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.05.20-04.06.42:100][902]AssetCheck: New page: Asset Save: StartMenuMap
+[2023.05.20-04.06.42:100][902]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/StartMenuMap.StartMenuMap
+[2023.05.20-04.07.56:231][588]BlueprintLog: New page: Compile MainMenu
+[2023.05.20-04.07.56:247][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.20-04.07.58:342][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.20-04.07.58:344][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-04.07.58:364][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/UI/MainMenu.uasset" SILENT=true
+[2023.05.20-04.07.58:367][834]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2023.05.20-04.07.58:367][834]LogSavePackage: Moving '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Saved/MainMenuCF5F3F6C445748F61202CF8286FF51A6.tmp' to '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/UI/MainMenu.uasset'
+[2023.05.20-04.07.58:370][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 227 ms)
+[2023.05.20-04.07.58:374][834]AssetCheck: New page: Asset Save: MainMenu
+[2023.05.20-04.07.58:374][834]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2023.05.20-04.08.53:526][640]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-04.08.53:530][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-04.08.53:530][640]PIE: New page: PIE session: StartMenuMap (May 19, 2023, 8:08:53 PM)
+[2023.05.20-04.08.53:530][640]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap
+[2023.05.20-04.08.53:531][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000702s)
+[2023.05.20-04.08.53:531][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/StartMenuMap.StartMenuMap to /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.000728s)
+[2023.05.20-04.08.53:531][640]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.08.53:531][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-04.08.53:531][640]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.05.20-04.08.53:531][640]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2023.05.20-04.08.53:544][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.20-04.08.53:545][640]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.20-04.08.53:545][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-04.08.53:545][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-04.08.53:545][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-04.08.53:545][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-04.08.53:545][640]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-04.08.53:545][640]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-04.08.53:545][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-04.08.53:545][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-04.08.53:545][640]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-04.08.53:545][640]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-04.08.53:545][640]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-04.08.53:547][640]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-04.08.53:556][640]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2023.05.20-04.08.53:556][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-04.08.53:556][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-04.08.53:556][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-04.08.53:557][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.05.20-04.08.53:557][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.05.20-04.08.53:558][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.05.20-04.08.53:558][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.05.20-04.08.53:558][640]LogInit: FAudioDevice initialized with ID 3.
+[2023.05.20-04.08.53:558][640]LogAudio: Display: Audio Device (ID: 3) registered with world 'StartMenuMap'.
+[2023.05.20-04.08.53:558][640]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.05.20-04.08.53:561][640]LogLoad: Game class is 'MenuGameMode_C'
+[2023.05.20-04.08.53:561][640]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.05.20-00.08.53
+[2023.05.20-04.08.53:561][640]LogWorld: Bringing up level for play took: 0.000208
+[2023.05.20-04.08.53:562][640]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.05.20-04.08.53:563][640]PIE: Server logged in
+[2023.05.20-04.08.53:564][640]PIE: Play in editor total start time 0.034 seconds.
+[2023.05.20-04.08.53:581][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.53:581][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.53:581][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.53:582][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.53:582][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.53:582][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.53:582][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.53:582][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.53:582][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.53:583][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.53:583][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.54:951][796]Cmd: quit
+[2023.05.20-04.08.54:952][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-04.08.54:952][796]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap
+[2023.05.20-04.08.54:981][796]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-04.08.54:981][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.08.54:982][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-04.08.54:984][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.08.54:996][796]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-04.08.54:996][796]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.05.20-04.08.54:996][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.20-04.08.54:997][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.20-04.08.54:999][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-04.08.55:000][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.20-04.08.55:020][796]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.55:056][801]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.05.20-04.08.56:073][923]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-04.08.56:075][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-04.08.56:076][923]PIE: New page: PIE session: StartMenuMap (May 19, 2023, 8:08:56 PM)
+[2023.05.20-04.08.56:101][923]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap
+[2023.05.20-04.08.56:101][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000697s)
+[2023.05.20-04.08.56:101][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/StartMenuMap.StartMenuMap to /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.000730s)
+[2023.05.20-04.08.56:101][923]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.08.56:101][923]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-04.08.56:102][923]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.05.20-04.08.56:102][923]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2023.05.20-04.08.56:114][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.20-04.08.56:115][923]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.20-04.08.56:115][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-04.08.56:115][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-04.08.56:115][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-04.08.56:115][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-04.08.56:115][923]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-04.08.56:115][923]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-04.08.56:115][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-04.08.56:115][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-04.08.56:115][923]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-04.08.56:115][923]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-04.08.56:115][923]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-04.08.56:116][923]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-04.08.56:125][923]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2023.05.20-04.08.56:125][923]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-04.08.56:125][923]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-04.08.56:125][923]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-04.08.56:126][923]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.05.20-04.08.56:126][923]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.05.20-04.08.56:127][923]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.05.20-04.08.56:127][923]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.05.20-04.08.56:127][923]LogInit: FAudioDevice initialized with ID 4.
+[2023.05.20-04.08.56:127][923]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartMenuMap'.
+[2023.05.20-04.08.56:127][923]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.05.20-04.08.56:128][923]LogLoad: Game class is 'MenuGameMode_C'
+[2023.05.20-04.08.56:128][923]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.05.20-00.08.56
+[2023.05.20-04.08.56:128][923]LogWorld: Bringing up level for play took: 0.000181
+[2023.05.20-04.08.56:130][923]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.05.20-04.08.56:130][923]PIE: Server logged in
+[2023.05.20-04.08.56:131][923]PIE: Play in editor total start time 0.055 seconds.
+[2023.05.20-04.08.56:137][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.56:137][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.56:137][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.56:138][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.56:138][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.56:138][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.56:138][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.56:138][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.56:138][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.56:138][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.56:138][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.56:708][989]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.05.20-04.08.56:710][989]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.05.20-04.08.56:710][989]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap
+[2023.05.20-04.08.56:710][989]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-04.08.56:710][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.08.56:753][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-04.08.56:754][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.20-04.08.56:777][989]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2023.05.20-04.08.56:777][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.08.56:777][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-04.08.56:777][989]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.05.20-04.08.56:777][989]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.20-04.08.56:777][989]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.20-04.08.56:778][989]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2023.05.20-04.08.56:781][989]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.20-04.08.56:781][989]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.20-04.08.56:782][989]LogWorldPartition: Display: GetPartitionedActors took 434 us
+[2023.05.20-04.08.56:889][989]LogWorldPartition: Display: GenerateStreaming took 107 ms
+[2023.05.20-04.08.56:891][989]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.05.20-04.08.56:891][989]LogWorldPartition: Display: WorldPartition initialize took 113 ms (total: 358 ms)
+[2023.05.20-04.08.56:891][989]LogPlayLevel: PIE: World Init took: (0.114506s)
+[2023.05.20-04.08.56:891][989]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.20-04.08.56:894][989]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.05.20-00.08.56
+[2023.05.20-04.08.56:894][989]LogWorld: Bringing up level for play took: 0.003055
+[2023.05.20-04.08.56:922][989]LogLoad: Took 0.212572 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2023.05.20-04.08.56:952][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.56:965][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.58:262][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-04.08.58:262][139]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.05.20-04.08.58:263][139]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-04.08.58:264][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.08.58:264][139]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.05.20-04.08.58:268][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-04.08.58:269][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.08.58:282][139]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-04.08.58:282][139]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.05.20-04.08.58:282][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.20-04.08.58:283][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.20-04.08.58:285][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-04.08.58:288][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.20-04.08.58:295][139]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.58:299][140]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.08.58:330][144]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.05.20-04.08.59:218][249]LogEditorViewport: Clicking Background
+[2023.05.20-04.09.31:464][118]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-04.09.31:467][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-04.09.31:467][118]PIE: New page: PIE session: StartMenuMap (May 19, 2023, 8:09:31 PM)
+[2023.05.20-04.09.31:467][118]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap
+[2023.05.20-04.09.31:468][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000570s)
+[2023.05.20-04.09.31:468][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/StartMenuMap.StartMenuMap to /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.000589s)
+[2023.05.20-04.09.31:468][118]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.09.31:468][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-04.09.31:468][118]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.05.20-04.09.31:468][118]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2023.05.20-04.09.31:481][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.05.20-04.09.31:481][118]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.20-04.09.31:481][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-04.09.31:481][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-04.09.31:481][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-04.09.31:481][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-04.09.31:481][118]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-04.09.31:481][118]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-04.09.31:481][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-04.09.31:481][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-04.09.31:482][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-04.09.31:482][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-04.09.31:482][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-04.09.31:483][118]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-04.09.31:494][118]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2023.05.20-04.09.31:494][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-04.09.31:494][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-04.09.31:494][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-04.09.31:495][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.05.20-04.09.31:495][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.05.20-04.09.31:496][118]LogInit: FAudioDevice initialized with ID 5.
+[2023.05.20-04.09.31:496][118]LogAudio: Display: Audio Device (ID: 5) registered with world 'StartMenuMap'.
+[2023.05.20-04.09.31:496][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.05.20-04.09.31:496][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.05.20-04.09.31:496][118]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.05.20-04.09.31:498][118]LogLoad: Game class is 'MenuGameMode_C'
+[2023.05.20-04.09.31:498][118]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.05.20-00.09.31
+[2023.05.20-04.09.31:498][118]LogWorld: Bringing up level for play took: 0.000205
+[2023.05.20-04.09.31:499][118]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.05.20-04.09.31:500][118]PIE: Server logged in
+[2023.05.20-04.09.31:500][118]PIE: Play in editor total start time 0.033 seconds.
+[2023.05.20-04.09.31:507][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.09.31:507][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.09.31:508][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.09.31:508][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.09.31:508][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.09.31:508][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.09.31:508][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.09.31:509][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.09.31:509][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.09.31:509][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.09.31:509][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.09.33:801][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-04.09.33:801][386]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap
+[2023.05.20-04.09.33:801][386]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-04.09.33:801][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.09.33:804][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-04.09.33:806][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.09.33:818][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-04.09.33:818][386]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.05.20-04.09.33:818][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.20-04.09.33:820][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.20-04.09.33:823][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.20-04.09.33:837][386]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.09.33:872][390]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.05.20-04.12.17:440][788]BlueprintLog: New page: Compile MainMenu
+[2023.05.20-04.12.17:464][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.05.20-04.12.19:076][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.20-04.12.19:078][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-04.12.19:095][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/UI/MainMenu.uasset" SILENT=true
+[2023.05.20-04.12.19:101][976]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2023.05.20-04.12.19:102][976]LogSavePackage: Moving '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Saved/MainMenu5626CDAC4FFE9F951E4DA4AC167E4BB3.tmp' to '../../../../../../Users/aweso/OneDrive/Desktop/Repo/RankedProjectFPS/FPSRankedProject/Content/UI/MainMenu.uasset'
+[2023.05.20-04.12.19:106][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 255 ms)
+[2023.05.20-04.12.19:108][976]AssetCheck: New page: Asset Save: MainMenu
+[2023.05.20-04.12.19:108][976]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2023.05.20-04.12.21:154][219]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-04.12.21:157][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-04.12.21:157][219]PIE: New page: PIE session: StartMenuMap (May 19, 2023, 8:12:21 PM)
+[2023.05.20-04.12.21:201][219]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap
+[2023.05.20-04.12.21:201][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000745s)
+[2023.05.20-04.12.21:201][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/StartMenuMap.StartMenuMap to /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.000775s)
+[2023.05.20-04.12.21:201][219]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.12.21:201][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-04.12.21:202][219]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.05.20-04.12.21:202][219]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2023.05.20-04.12.21:214][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.20-04.12.21:215][219]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.05.20-04.12.21:215][219]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-04.12.21:215][219]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-04.12.21:215][219]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-04.12.21:215][219]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-04.12.21:215][219]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-04.12.21:215][219]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-04.12.21:215][219]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-04.12.21:215][219]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-04.12.21:215][219]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-04.12.21:215][219]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-04.12.21:215][219]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-04.12.21:216][219]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-04.12.21:225][219]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2023.05.20-04.12.21:225][219]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-04.12.21:225][219]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-04.12.21:225][219]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-04.12.21:226][219]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.05.20-04.12.21:226][219]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.05.20-04.12.21:227][219]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.05.20-04.12.21:227][219]LogInit: FAudioDevice initialized with ID 6.
+[2023.05.20-04.12.21:227][219]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.05.20-04.12.21:227][219]LogAudio: Display: Audio Device (ID: 6) registered with world 'StartMenuMap'.
+[2023.05.20-04.12.21:227][219]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.05.20-04.12.21:228][219]LogLoad: Game class is 'MenuGameMode_C'
+[2023.05.20-04.12.21:228][219]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.05.20-00.12.21
+[2023.05.20-04.12.21:228][219]LogWorld: Bringing up level for play took: 0.000182
+[2023.05.20-04.12.21:230][219]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.05.20-04.12.21:231][219]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.20-04.12.21:231][219]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.20-04.12.21:231][219]PIE: Server logged in
+[2023.05.20-04.12.21:232][219]PIE: Play in editor total start time 0.075 seconds.
+[2023.05.20-04.12.21:239][219]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.21:239][219]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.21:239][219]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.21:239][219]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.21:239][219]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.21:240][219]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.21:240][219]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.21:240][219]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.21:240][219]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.21:240][219]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.21:240][219]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.24:199][572]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.20-04.12.24:199][572]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.20-04.12.24:200][572]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.05.20-04.12.24:200][572]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.05.20-04.12.24:200][572]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_StartMenuMap
+[2023.05.20-04.12.24:200][572]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-04.12.24:200][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.12.24:242][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-04.12.24:243][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.20-04.12.24:248][572]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2023.05.20-04.12.24:248][572]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-04.12.24:248][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-04.12.24:248][572]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.05.20-04.12.24:248][572]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.20-04.12.24:248][572]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.20-04.12.24:248][572]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2023.05.20-04.12.24:251][572]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.20-04.12.24:251][572]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.20-04.12.24:251][572]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 438 us)
+[2023.05.20-04.12.24:266][572]LogWorldPartition: Display: GenerateStreaming took 15 ms (total: 123 ms)
+[2023.05.20-04.12.24:267][572]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.05.20-04.12.24:267][572]LogWorldPartition: Display: WorldPartition initialize took 18 ms (total: 377 ms)
+[2023.05.20-04.12.24:267][572]LogPlayLevel: PIE: World Init took: (0.018746s)
+[2023.05.20-04.12.24:267][572]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.20-04.12.24:269][572]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.05.20-00.12.24
+[2023.05.20-04.12.24:269][572]LogWorld: Bringing up level for play took: 0.001875
+[2023.05.20-04.12.24:271][572]LogLoad: Took 0.070502 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2023.05.20-04.12.24:276][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.24:284][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.50:621][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-04.12.50:621][724]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.05.20-04.12.50:621][724]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-04.12.50:621][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.12.50:621][724]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.05.20-04.12.50:624][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-04.12.50:625][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-04.12.50:637][724]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-04.12.50:637][724]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.05.20-04.12.50:637][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.20-04.12.50:639][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.20-04.12.50:640][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-04.12.50:643][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.20-04.12.50:659][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.50:664][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-04.12.50:683][727]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.05.20-04.12.54:378][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.05.20-04.15.14:502][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
